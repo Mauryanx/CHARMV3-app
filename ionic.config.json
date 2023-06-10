@@ -1,0 +1,7 @@
+{
+  "name": "CharmV3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
